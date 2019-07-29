@@ -1,4 +1,4 @@
-package second.server;
+package ioSocket.server;
 
 import java.io.IOException;
 import java.io.InputStream;

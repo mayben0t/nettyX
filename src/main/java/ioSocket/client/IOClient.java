@@ -1,4 +1,4 @@
-package second.client;
+package ioSocket.client;
 
 import java.net.Socket;
 import java.text.SimpleDateFormat;
